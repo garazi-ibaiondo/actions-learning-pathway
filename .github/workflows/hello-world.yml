@@ -1,6 +1,6 @@
 name: hello-world
-description: Say hello world
 on: push
+run-name: Say Hello world!
 jobs: 
   hello-world-job:
     runs-on: ubuntu-latest
