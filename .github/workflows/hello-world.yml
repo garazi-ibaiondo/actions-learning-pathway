@@ -1,4 +1,5 @@
 name: hello-world
+description: Say hello world
 on: push
 jobs: 
   hello-world-job:
